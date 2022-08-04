@@ -1,3 +1,8 @@
+
+// Name : Amoah Oliver
+// ID : 10959346
+
+
 #include <iostream>
 using namespace std;
 
